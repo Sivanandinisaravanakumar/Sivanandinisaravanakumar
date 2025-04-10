@@ -21,7 +21,6 @@ Welcome to my GitHub profile! I'm an AI enthusiast and developer, with a focus o
 
 ## 🏆 Experience
 - **Python Developer**: Developed projects in **AI** and **Python programming** during internships at **Oasis Infobyte** and **CodSoft**
-- **Energy Systems Developer**: Designed efficient **Energy Storage Systems (ESS)** to stabilize the grid and support renewable energy integration
 - **Contributor**: Participated in the **GirlScript Summer of Code 2024 Extended Edition**
 
 ## 💡 Interests
