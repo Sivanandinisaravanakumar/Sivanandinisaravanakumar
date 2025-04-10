@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm an AI enthusiast and developer, with a focus o
 ## 🏆 Experience
 - **Python Developer**: Developed projects in **AI** and **Python programming** during internships at **Oasis Infobyte** and **CodSoft**
 - **Contributor**: Participated in the **GirlScript Summer of Code 2024 Extended Edition**
+- **Cyber Security Analyst at Tata group**
 
 ## 💡 Interests
 - Building AI-driven applications for **sustainable agriculture and climate resilience**
