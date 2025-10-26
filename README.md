@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm an AI enthusiast and developer, with a focus o
   - Remote Sensing Technology
 
 ## 🏆 Experience
+-  Currently **interning** at **Infosys Springboard** as an **AI Intern**, exploring Artificial Intelligence, Machine Learning, and Generative AI applications.
+-  Former **Intern** at **ServiceNow** as a **System Administrator**, where I gained hands-on experience in IT Service Management, workflow automation, and platform administration.
 - **Python Developer**: Developed projects in **AI** and **Python programming** during internships at **Oasis Infobyte** and **CodSoft**
 - **Contributor**: Participated in the **GirlScript Summer of Code 2024 Extended Edition**
 - **Cyber Security Analyst at Tata group**
