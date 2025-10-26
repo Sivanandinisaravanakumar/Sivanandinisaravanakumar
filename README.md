@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an AI enthusiast and developer, with a focus o
 - 🌐 Active member of **Women Techmakers**, **Google Developer Group Madurai**, and **Google Cloud Skills Boost**
 
 ## 🛠 Skills
-- **Programming Languages**: Python, C, C++
+- **Programming Languages**: Python, C, C++ and Java
 - **Fields of Expertise**:
   - Identity and Access Management (IAM)
   - Data Science & AI
