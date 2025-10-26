@@ -1,6 +1,6 @@
 # Hi there, I'm Sivanandini Saravanakumar 👋
 
-Welcome to my GitHub profile! I'm an AI enthusiast and developer, with a focus on creating impactful software solutions, especially in the areas of **Generative AI**, **Data Science**, **Remote Sensing Technology**, and **Climate Change Adaptation**.
+Welcome to my GitHub profile! I'm an AI enthusiast and developer, with a focus on creating impactful software solutions, especially in the areas of **Generative AI**, **Data Science**,and **Remote Sensing Technology**.
 
 ---
 
